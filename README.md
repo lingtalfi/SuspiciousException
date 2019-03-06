@@ -15,7 +15,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import SuspiciousException
+uni import Ling/SuspiciousException
 ```
 
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace SuspiciousException;
+namespace Ling\SuspiciousException;
 
 /*
  * LingTalfi 2016-01-20
