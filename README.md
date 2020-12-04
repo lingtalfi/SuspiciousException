@@ -26,7 +26,11 @@ Details of the paradigm are explained in the [suspicious exception paradigm](htt
 
 History Log
 ------------------
-    
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2016-01-20
 
     - initial commit
